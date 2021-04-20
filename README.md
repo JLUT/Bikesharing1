@@ -2,7 +2,7 @@
 
 In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company.And in this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
 
-**Objectives
+** Objectives
 
    . Import data into Tableau.
    .Create and style worksheets, dashboards, and stories in Tableau.
