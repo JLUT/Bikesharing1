@@ -2,7 +2,7 @@
 
 In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company.And in this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
 
-** Objectives
+Objectives
 
    . Import data into Tableau.
    .Create and style worksheets, dashboards, and stories in Tableau.
@@ -10,7 +10,7 @@ In this module, we worked with data visualization software called Tableau to pre
    . Portray data accurately using Tableau dashboards.
    
    
- **Import data into Tableau
+ Import data into Tableau
   
 In Tableau, we have a variety of different options when it comes to data sources. We can have flat files such as CSV, PDF, and TXT files, as well as other data sources like databases and data streams. (These will mostly be SQL databases.)
 
@@ -19,7 +19,8 @@ There are two primary ways that Tableau connects to the data we provide: through
 Live data is primarily databases such as MySQL and Microsoft SQL Server. Live data is just what it sounds like: live data. This type of data is updated every time we view the dashboard, since it’s possible that the data has changed in our database.
 
 Extract data is primarily when we use files such as CSV, TXT, or PDF. These files remain unchanged unless we pull a new extract of the data. For example, if we update the file, we would have to update it in Tableau as well. For our analysis, we imported the CSV file, which contains all the data we needed for this project. Therefore, we technically worked with extracted data for our project.
-**Use Tableau worksheets to display data in a professional way.
+
+Use Tableau worksheets to display data in a professional way.
 
 The best visualizations have a clear purpose and work for their intended audience. What will we be trying to say with this dashboard? Are we presenting a conclusion or a key question?
 
