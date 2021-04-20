@@ -1,3 +1,4 @@
+<img width="909" alt="Screen Shot 2021-04-20 at 10 44 58 AM" src="https://user-images.githubusercontent.com/71113701/115428343-eb1c5b00-a1c7-11eb-9419-88ee44f4844f.png">
 **Project Overview**
 
 In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company.And in this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
