@@ -57,4 +57,4 @@ Our goal is to convince investors that a bike-sharing program in Des Moines is a
 
 
 
-[link to dashboard](https://public.tableau.com/profile/jomol#!/vizhome/JL-NYCCitibikeAnalysis/NYCCitibikeanalysis?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/jomol/viz/JL-NYCCitibikeAnalysis/NYCCitibikeanalysis)
